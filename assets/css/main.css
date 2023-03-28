@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Raleway:wght@500&display=swap');
+body
+{
+    background: linear-gradient(to right, #9E2B25, #C49E85);
+    font-family: 'Raleway', sans-serif !important;
+    color: white;
+}
+.opa
+{
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}

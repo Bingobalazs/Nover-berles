@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+.szam{
+text-align: center;
+font-size: 80px;
+font-family: 'Libre Baskerville', serif;
+}
+.szamleiras{
+color: rgb(185, 185, 185);
+text-align: center;
+}
+
+body{ 
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+    background-image: url("../images/hatter.png");
+}
+  
+
+.content{
+    
+    background-color: white;
+    border-radius: 50px;
+    padding: 100px;
+}
+.box{
+    width: 100%;
+    height: 50%;
+    padding: 10vh;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.boxconf{
+    width: 100%;
+    height: 25%;
+    
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.container{
+
+}
+.also{
+    margin-top: 100px;
+    background-color: white;
+    font-size: 40px;
+}
+button{
+    border-radius: 40px!important;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
